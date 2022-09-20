@@ -6,11 +6,13 @@ read location
 echo ${location}
 
 if [ ${location##*/} == "CIRCUITPY" ]; then
-    echo "This is indeed your Pico :)"
+    echo -e "\e[32mThis is indeed your Pico :)\e[0m"
 else
     echo -e "\e[31mThis does not seem to be your Pico!\e[0m"
     exit
 fi
+
+echo -e "\e[1;33mMoving files...\e[0m"
 
 cp code.py ${location}/code.py
 cp -r lib ${location}/lib

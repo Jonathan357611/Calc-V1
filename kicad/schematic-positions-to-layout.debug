@@ -1,0 +1,77 @@
+work_dir = /home/jonat/kicad/calculator
+in_pcb_file = calculator.kicad_pcb
+root_schematic_file = calculator.kicad_sch
+store to sheet[] = calculator.kicad_sch
+/24e79cc3-e695-426e-9062-01c6e9990b40 ('SW12', (11747, 16827), '')
+/2fe627a9-ce0a-4cf2-9b88-9cda12f1db28 ('SW14', (14478, 10287), '')
+/44d4f6b9-2c6c-400b-b5f7-d9936f6cea13 ('SW9', (11747, 12192), '')
+/4c6b289b-23c1-4525-80eb-a9aa062199ae ('SW13', (14478, 8001), '')
+/57925740-fed8-4b01-acea-a55d9b682e72 ('SW6', (9080, 16827), '')
+/5f7af538-2cbe-471f-b380-28d6b5841fc8 ('J1', (8191, 2159), '')
+/625f2c19-cba1-4e2d-90cc-47c023231976 ('SW10', (11747, 14478), '')
+/641a83b2-ab7b-4d30-ae2d-116049b1bf5b ('SW5', (9080, 15811), '')
+/7a1685a9-0924-478a-b586-a101208d4bb6 ('SW1', (9080, 8001), '')
+/970359de-abd4-423c-8e80-612d2c953dda ('J2', (10477, 2159), '')
+/a39cb872-1501-4d07-adeb-2ee26af1e25f ('SW17', (14478, 15811), '')
+/b24318af-d690-48ba-b972-034c7fc92e86 ('SW16', (14478, 14478), '')
+/b254dc0b-f5ae-4bc1-9cc9-816a3bcd217b ('SW4', (9080, 14478), '')
+/b3931d2f-6321-43ab-aa17-ea55e6596494 ('SW7', (11747, 8001), '')
+/b57a4526-ddb2-4fd3-b490-a40ef07cbb42 ('SW18', (-9461, 7429), '')
+/b5d7d91d-6705-4c12-b513-d5d3086eb40e ('SW15', (14478, 12192), '')
+/bb633790-fd6e-4b52-8d86-f0a416c5d383 ('BT2', (-11366, 8636), '')
+/d52359e7-4494-4fc7-ae1d-d769bc898af8 ('SW11', (11747, 15811), '')
+/d85e961d-a405-481c-8191-56a58f4c5da6 ('U1', (-2540, 7239), '')
+/dba9489a-6789-43d4-8cb2-0274e810d992 ('BT1', (-11366, 7175), '')
+/dbebdf56-b77d-432b-92d9-7175b9ea254e ('SW8', (11747, 10287), '')
+/ee382577-e4df-4f69-b0ff-f1c73e107f7e ('SW2', (9080, 10287), '')
+/f0715fd7-e9e4-4e01-a7b9-4ffbd17fd047 ('SW3', (9080, 12192), '')
+SW12 /24e79cc3-e695-426e-9062-01c6e9990b40
+  path = /24e79cc3-e695-426e-9062-01c6e9990b40   sheet =    ref = SW12   pos = (11747, 16827)   new_pos = (176205000, 252405000)
+kibuzzard-630FA917 /
+  NOT FOUND
+SW7 /b3931d2f-6321-43ab-aa17-ea55e6596494
+  path = /b3931d2f-6321-43ab-aa17-ea55e6596494   sheet =    ref = SW7   pos = (11747, 8001)   new_pos = (176205000, 120015000)
+SW11 /d52359e7-4494-4fc7-ae1d-d769bc898af8
+  path = /d52359e7-4494-4fc7-ae1d-d769bc898af8   sheet =    ref = SW11   pos = (11747, 15811)   new_pos = (176205000, 237165000)
+SW15 /b5d7d91d-6705-4c12-b513-d5d3086eb40e
+  path = /b5d7d91d-6705-4c12-b513-d5d3086eb40e   sheet =    ref = SW15   pos = (14478, 12192)   new_pos = (217170000, 182880000)
+SW3 /f0715fd7-e9e4-4e01-a7b9-4ffbd17fd047
+  path = /f0715fd7-e9e4-4e01-a7b9-4ffbd17fd047   sheet =    ref = SW3   pos = (9080, 12192)   new_pos = (136200000, 182880000)
+SW13 /4c6b289b-23c1-4525-80eb-a9aa062199ae
+  path = /4c6b289b-23c1-4525-80eb-a9aa062199ae   sheet =    ref = SW13   pos = (14478, 8001)   new_pos = (217170000, 120015000)
+SW1 /7a1685a9-0924-478a-b586-a101208d4bb6
+  path = /7a1685a9-0924-478a-b586-a101208d4bb6   sheet =    ref = SW1   pos = (9080, 8001)   new_pos = (136200000, 120015000)
+SW10 /625f2c19-cba1-4e2d-90cc-47c023231976
+  path = /625f2c19-cba1-4e2d-90cc-47c023231976   sheet =    ref = SW10   pos = (11747, 14478)   new_pos = (176205000, 217170000)
+SW2 /ee382577-e4df-4f69-b0ff-f1c73e107f7e
+  path = /ee382577-e4df-4f69-b0ff-f1c73e107f7e   sheet =    ref = SW2   pos = (9080, 10287)   new_pos = (136200000, 154305000)
+SW18 /b57a4526-ddb2-4fd3-b490-a40ef07cbb42
+  path = /b57a4526-ddb2-4fd3-b490-a40ef07cbb42   sheet =    ref = SW18   pos = (-9461, 7429)   new_pos = (-141915000, 111435000)
+SW8 /dbebdf56-b77d-432b-92d9-7175b9ea254e
+  path = /dbebdf56-b77d-432b-92d9-7175b9ea254e   sheet =    ref = SW8   pos = (11747, 10287)   new_pos = (176205000, 154305000)
+BT1 /dba9489a-6789-43d4-8cb2-0274e810d992
+  path = /dba9489a-6789-43d4-8cb2-0274e810d992   sheet =    ref = BT1   pos = (-11366, 7175)   new_pos = (-170490000, 107625000)
+SW6 /57925740-fed8-4b01-acea-a55d9b682e72
+  path = /57925740-fed8-4b01-acea-a55d9b682e72   sheet =    ref = SW6   pos = (9080, 16827)   new_pos = (136200000, 252405000)
+SW9 /44d4f6b9-2c6c-400b-b5f7-d9936f6cea13
+  path = /44d4f6b9-2c6c-400b-b5f7-d9936f6cea13   sheet =    ref = SW9   pos = (11747, 12192)   new_pos = (176205000, 182880000)
+BT2 /bb633790-fd6e-4b52-8d86-f0a416c5d383
+  path = /bb633790-fd6e-4b52-8d86-f0a416c5d383   sheet =    ref = BT2   pos = (-11366, 8636)   new_pos = (-170490000, 129540000)
+SW14 /2fe627a9-ce0a-4cf2-9b88-9cda12f1db28
+  path = /2fe627a9-ce0a-4cf2-9b88-9cda12f1db28   sheet =    ref = SW14   pos = (14478, 10287)   new_pos = (217170000, 154305000)
+J2 /970359de-abd4-423c-8e80-612d2c953dda
+  path = /970359de-abd4-423c-8e80-612d2c953dda   sheet =    ref = J2   pos = (10477, 2159)   new_pos = (157155000, 32385000)
+SW17 /a39cb872-1501-4d07-adeb-2ee26af1e25f
+  path = /a39cb872-1501-4d07-adeb-2ee26af1e25f   sheet =    ref = SW17   pos = (14478, 15811)   new_pos = (217170000, 237165000)
+SW5 /641a83b2-ab7b-4d30-ae2d-116049b1bf5b
+  path = /641a83b2-ab7b-4d30-ae2d-116049b1bf5b   sheet =    ref = SW5   pos = (9080, 15811)   new_pos = (136200000, 237165000)
+J1 /5f7af538-2cbe-471f-b380-28d6b5841fc8
+  path = /5f7af538-2cbe-471f-b380-28d6b5841fc8   sheet =    ref = J1   pos = (8191, 2159)   new_pos = (122865000, 32385000)
+SW16 /b24318af-d690-48ba-b972-034c7fc92e86
+  path = /b24318af-d690-48ba-b972-034c7fc92e86   sheet =    ref = SW16   pos = (14478, 14478)   new_pos = (217170000, 217170000)
+SW4 /b254dc0b-f5ae-4bc1-9cc9-816a3bcd217b
+  path = /b254dc0b-f5ae-4bc1-9cc9-816a3bcd217b   sheet =    ref = SW4   pos = (9080, 14478)   new_pos = (136200000, 217170000)
+kibuzzard-630FA8E9 /
+  NOT FOUND
+U1 /d85e961d-a405-481c-8191-56a58f4c5da6
+  path = /d85e961d-a405-481c-8191-56a58f4c5da6   sheet =    ref = U1   pos = (-2540, 7239)   new_pos = (-38100000, 108585000)

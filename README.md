@@ -41,7 +41,7 @@ Just set ```HID``` to ```True``` in line 7 in code.py!
 
 ## Other
 
-Any contributions in code, installation and PCB very welcomed :)
+Any contributions in code, installation and PCB are very welcomed :)
 I'll try my best to fix any issues you run into.
 
 If you *really* like my project, consider donating some ETH :)

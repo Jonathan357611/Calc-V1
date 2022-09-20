@@ -21,11 +21,10 @@ Before installing, it is very important to flash **circuipy** on your Pico. You 
 
 Now there are two options:
 
-### Installer (Linux Only!):
-
-1. Open a terminal and cd to your CIRCUITPY-drive
-2. run ```git clone https://github.com/Jonathan357611/Calc-V1.git``` there
-3. ... and now ```./installer.sh```. The installer will delete all unnecessary files from your Pico!
+### Installer (only linux tested!):
+1. Open a terminal
+2. run ```git clone https://github.com/Jonathan357611/Calc-V1.git```
+3. ... and now ```./installer.sh```. The installer should copy all necessary files to your Pico!
 4. Done!
 
 ### Manual

@@ -1,7 +1,9 @@
  #!/bin/bash
 
 echo "This will install the Calc-V1 software on your Pico!"
-location = read "Please enter the folder of your Pico: "
+echo -n "Please enter the folder of your Pico: "
+location = read 
+echo ${location}
 if [ ${location##*/} == "CIRCUITPY" ]; then
     echo "This is indeed your Pico :)"
 else

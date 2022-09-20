@@ -1,8 +1,9 @@
 # Calc V1 🧮
 
-This is RP2040 (Raspberry Pi Pico) driven calculator using mechanical switches based on the MX-format.
+This is RP2040 (Raspberry Pi Pico) driven calculator using mechanical switches based on the MX-format which doubles as an HID-numpad if wanted.
 
 This is my very first *real* physical and polished project and thus im very proud of it as a 14 year old :)
+
 
 ![alt text](./images/img1.jpg)
 
@@ -34,6 +35,10 @@ Now there are two options:
 3. And copy them on your Pico!
 
 That should be it. If you have any troubles installing it, hit me up!
+
+## HID Numpad
+Want to use it as a numpad? Easy!
+Just set ```HID``` to ```True``` in line 7 in code.py!
 
 ## Other
 

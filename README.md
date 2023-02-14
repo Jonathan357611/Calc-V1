@@ -2,7 +2,7 @@
 
 This is RP2040 (Raspberry Pi Pico) driven calculator using mechanical switches based on the MX-format which doubles as an HID-numpad if wanted.
 
-This is my very first *real* physical and polished project and thus im very proud of it as a 14 year old :)
+This is my very first *real* physical and polished project and thus im very proud of it as a 15 year old :)
 
 
 ![alt text](./images/img1.jpg)
